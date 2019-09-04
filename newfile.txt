@@ -4,6 +4,13 @@ Team Name: WIP
 Github repo: https://github.com/cse442-fall-2019-offering/442projects-cse-442-nerds-lmao
 Zennhub repo: https://app.zenhub.com/workspaces/cse-442-nerds-something-5d6ffc38502dea6dac09939d/board?repos=206380837
 
+Team Members:
+-alanalpe@buffalo.edu
+-eykim5@buffalo.edu
+-Sarahpet@buffalo.edu
+-tracyzhe@buffalo.edu
+-vfeng2@buffalo.edu
+
 
 
 "Does your team will need a web server to host your project? (If yes, I will work with cse-consult to get it setup for your team).
